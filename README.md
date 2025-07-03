@@ -1,4 +1,5 @@
 📝 Keeper App
+
 A simple note-taking web application built using React.js and styled with Material-UI (MUI). Inspired by Google Keep, this app allows users to create, display, and delete notes easily.
 
 🔗 [Live Demo](https://yqv4sg.csb.app/)
@@ -8,32 +9,37 @@ A simple note-taking web application built using React.js and styled with Materi
 
 ![Screenshot 2025-07-03 225437](https://github.com/user-attachments/assets/df1b0fc2-04ef-4cdf-944d-a64558cf4b56)
 
-🚀 Features
-Create and display notes
+***🚀 Features***
 
-Delete notes individually
+-Create and display notes
 
-Beautiful UI using Material-UI
+-Delete notes individually
 
-Responsive design
+-Beautiful UI using Material-UI
 
-🛠️ Tech Stack
-Frontend: React.js
+-Responsive design
 
-UI Library: Material-UI (MUI)
+***🛠️ Tech Stack***
 
-Styling: CSS , React.js
+-Frontend: React.js
 
-🧠 Future Improvements
-Add user authentication
+-UI Library: Material-UI (MUI)
 
-Persist notes using a backend (PostgreSQL + Express)
+-Styling: CSS , React.js
 
-Add search and filter functionality
+***🧠 Future Improvements***
 
-Add note categories and color tags
+-Add user authentication
 
-🧑‍💻 Author
+-Persist notes using a backend (PostgreSQL + Express)
+
+-Add search and filter functionality
+
+-Add note categories and color tags
+
+***🧑‍💻 Author***
+
 Harsh Sharma 
+
 GitHub: [@sharmaharsh99](https://github.com/sharmaharsh99)
 
